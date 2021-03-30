@@ -27,7 +27,7 @@ dependencies:
   # 日志打印 https://pub.flutter-io.cn/packages/logger
   logger: ^0.9.4
   # 获取路径 https://pub.flutter-io.cn/packages/path_provider
-  path_provider: ^1.6.27
+  path_provider: ^2.0.1
 
 dev_dependencies:
   mockito: ^4.1.1
